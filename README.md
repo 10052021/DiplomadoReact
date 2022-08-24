@@ -1,1 +1,1 @@
-# DiplomadoReact
+# DiploReact
